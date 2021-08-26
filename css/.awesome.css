@@ -1,0 +1,39 @@
+.container {
+    width: 1170;
+    margin: auto;
+    padding: 115px;
+    background-color:#FFFFFF;
+
+}
+.awesome_header, .awesome_subheader {
+    text-align: center;
+
+}
+.awesome_subheader {
+    padding: 195px, 518px, 381px, 519px;
+}
+
+.awesome_card_img {
+    border: 1px solid #D98943;
+    border-width: 70px solid;
+    border-radius: 50%;
+    padding: 10px;
+}
+.awesome_card_title {
+    padding: 20px;
+}
+.awesome_card_text {
+    padding: 10px;
+}
+.awesome_card {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+.awesome_line {
+    width: 64px;
+    height: 2px;
+    margin: auto;
+    border: 1px solid #d98943;
+
+}
