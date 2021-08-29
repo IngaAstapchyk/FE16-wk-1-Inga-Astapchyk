@@ -5,12 +5,23 @@
     background-color:#FFFFFF;
 
 }
-.awesome_header, .awesome_subheader {
+.awesome_header {
     text-align: center;
-
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    padding-top: 100px;
+    padding-bottom: 25px;
 }
 .awesome_subheader {
-    padding: 195px, 518px, 381px, 519px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    padding-top: 30px;
+
 }
 
 .awesome_card_img {
@@ -21,14 +32,24 @@
 }
 .awesome_card_title {
     padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
 }
 .awesome_card_text {
-    padding: 10px;
+    padding-top: 16px;
+    padding-bottom: 109px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
 }
 .awesome_card {
     display: inline-block;
     width: 33%;
     text-align: center;
+    padding-top: 67px;
 }
 .awesome_line {
     width: 64px;
